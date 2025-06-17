@@ -1,0 +1,11 @@
+{
+  "title": "Redefinition of Centrifugal Force",
+  "method": "Tensor Pressure Gradient from Rotational Brane Curvature",
+  "core_equation": "F_c^QG = (1/r) \u222e T_spin^\u03bc\u03bd d\u03c4",
+  "simulated_outcome": "Stable curvature pressure in torsion shells",
+  "verifies": [
+    "Outward pressure effect is frame-independent",
+    "Centrifugal acceleration arises from field geometry",
+    "Predicts force variation under changing harmonic boundary layers"
+  ]
+}
